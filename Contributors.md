@@ -2207,4 +2207,5 @@ p3tun1a
 - [APARNA BISHT](https://github.com/bishtaparna)
 - [Szyman98](https://github.com/Szyman98)
 - [Slimlix Hsu](https://github.com/Slimlix1101)
+- [Salah]
 <!-- prettier-ignore-end -->
